@@ -1,2 +1,4 @@
-# mutual-influences-of-poststructuralists
-DOT file describing the mutual influences of poststructuralists
+# Взаимные влияния постструктуралистов
+
+Это файл в формате dot (graphviz) описывающий взаимные влияния философов-постструктуралистов. 
+Файл сгенерирован DeepSeek, я только убрал дублирующие стрелки
